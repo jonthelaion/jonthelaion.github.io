@@ -123,6 +123,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
+  useful-links: /useful-links/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -143,6 +144,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  useful-links: link
 
 
 
