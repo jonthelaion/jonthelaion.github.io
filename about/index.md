@@ -2,7 +2,7 @@
 layout: page
 type: about
 ---
-Just a data-scientist/statistician (in-training) hailing from the land down under, hoping to make a small difference in the world with his interest in:
+Just an aspiring data-scientist/statistician (in-training) hailing from the land down under, hoping to make a small difference in the world with his interest in:
 * data and the possibilities it presents
 * education and learning analytics
 * mental health and aged care
