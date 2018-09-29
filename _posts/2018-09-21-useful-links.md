@@ -11,9 +11,10 @@ Below is a collection of useful links for future reference:
 
 ## R
 
-* [Installing R Kernel for Jupyter](https://www.datacamp.com/community/blog/jupyter-notebook-r)
+* <a href="https://www.datacamp.com/community/blog/jupyter-notebook-r" target="_blank">Installing R Kernel for Jupyter</a>
   * Then, to install packages, run `install.packages('package_name')` in Git Bash
+* <a href="https://www.aj2duncan.com/blog/" target="_blank">Andrew Duncan's Website</a>
 
 ## Societies
 
-* [Statistical Society of Australia](https://www.statsoc.org.au/branches/new-south-wales/)
+* <a href="https://www.statsoc.org.au/branches/new-south-wales/" target="_blank">Statistical Society of Australia</a>
