@@ -18,3 +18,7 @@ Below is a collection of useful links for future reference:
 ## Societies
 
 * <a href="https://www.statsoc.org.au/branches/new-south-wales/" target="_blank">Statistical Society of Australia</a>
+
+## Journals
+
+* <a href="https://www.significancemagazine.com/science" target="_blank">Significance Magazine</a>
